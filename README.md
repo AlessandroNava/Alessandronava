@@ -13,8 +13,6 @@
 >
 > 🌱 I am currently study web development my self (React and Nextjs), with a focus on both backend and frontend. Despite not having a background in this field or a degree, I started this journey as a hobby and it quickly became my passion. Currently, I work at a local company and i use Delphi language.
 
-https://github.com/AlessandroNava/github-stats-terminal-style
-
 ### Some other hobbies: 
 
 * ⚡ Electronic (Build my prototype)
