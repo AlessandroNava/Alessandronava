@@ -1,38 +1,45 @@
-# Hi there 👋, ✨ It's Alessandro ✨
-## 🔭 I'm a full stack developer Junior and Delphi specialist for 20 year !
+# Hi there 👋, ✨ I'm Alessandro ✨
+## 🔭 Junior full-stack developer and Delphi specialist with 20 years of experience
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=26A641&vCenter=true&width=600&lines=Delphi+developer+for+20+years;Learning+React+and+Next.js;Electronics+and+3D+printing;PADI+and+EFR+Instructor)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=AlessandroNava&color=26a641&style=flat)
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroNava&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
-![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlessandroNava&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
 
-[![Alessandro Nava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandroNava&theme=github-compact&hide_border=true&radius=16&bg_color=151515&custom_title=My%20Activity%20Graph%20^_^&title_color=26a641)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![My Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlessandroNava&theme=radical)
+![My Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroNava&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlessandroNava&theme=gruvbox&margin-w=50&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### My Activity Graph
+![Alessandro Nava's GitHub contributions](https://ghchart.rshah.org/26a641/AlessandroNava)
+
+[![trophy](https://github-trophies.vercel.app/?username=AlessandroNava&theme=gruvbox&margin-w=50&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Here's My Story
->Hello there!
+> Hello there!
 >
-> 🌱 I am currently study web development my self (React and Nextjs), with a focus on both backend and frontend. Despite not having a background in this field or a degree, I started this journey as a hobby and it quickly became my passion. Currently, I work at a local company and i use Delphi language.
+> 🌱 I work at a local company, where I develop software in Delphi. In my free time I'm teaching myself web development (React and Next.js), working on both the backend and the frontend. I don't have a degree or a background in this field: I started this journey as a hobby, and it quickly became my passion.
 
-### Some other hobbies: 
+### Some other hobbies
 
-* ⚡ Electronic (Build my prototype)
-* 😄 Print 3d (Prusa lover)
-* 📫 PADI istructor 
-* EFR istructor
-* Playing video retro-games since I was 5 y.o
+* ⚡ Electronics (I build my own prototypes)
+* 😄 3D printing (Prusa lover)
+* 📫 PADI Instructor
+* 🩹 EFR Instructor
+* 🕹️ Playing retro video games since I was 5
 
 ### Skills
-- Backend: Delphi
-- In Learning Core Web API and Node.js (Express.js), and NestJs (I really love APIs and wanna specialize in them)
-- FrontEnd: HTML, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript
-  - Frameworks: ReactJs and Next.js
-- Database and ORMs: MySQL, MSSQL, Oracle, SQLite, Interbase, Firebird, EF Core, Prisma, Postgres, Redis, and MongoDB, Supabase
-- Docker (Basic)
-- SignalR 
+- **Backend:** Delphi
+  - Learning: ASP.NET Core Web API, Node.js (Express.js) and NestJS (I really love APIs and want to specialize in them)
+  - SignalR
+- **Frontend:** HTML, CSS, SCSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+  - Frameworks: React and Next.js
+- **Databases and ORMs:** MySQL, MSSQL, Oracle, SQLite, InterBase, Firebird, PostgreSQL, Redis, MongoDB, Supabase, EF Core, Prisma
+- **DevOps:** Docker (basic)
 
 [![My Skills](https://skillicons.dev/icons?i=delphi,nodejs,expressjs,prisma,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,mysql,firebird,mssql,sqlite,postgres,mongodb)](https://skillicons.dev)
+
 --------------------------------
 ### My Social Media Accounts
 
-[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandronavainfo/)
-
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/alessandronavainfo/)
